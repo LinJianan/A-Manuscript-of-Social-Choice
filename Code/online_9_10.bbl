@@ -1,0 +1,140 @@
+\begin{thebibliography}{10}
+
+\bibitem{abramowitz2019awareness}
+Ben Abramowitz, Elliot Anshelevich, and Wennan Zhu.
+\newblock Awareness of voter passion greatly improves the distortion of metric
+  social choice.
+\newblock In {\em International Conference on Web and Internet Economics}.
+  Springer, 2019.
+
+\bibitem{anshelevich2015approximating}
+Elliot Anshelevich, Onkar Bhardwaj, and John Postl.
+\newblock Approximating optimal social choice under metric preferences.
+\newblock In {\em Twenty-Ninth AAAI Conference on Artificial Intelligence},
+  pages 777--783, 2015.
+
+\bibitem{anshelevich2017randomized}
+Elliot Anshelevich and John Postl.
+\newblock Randomized social choice functions under metric preferences.
+\newblock {\em Journal of Artificial Intelligence Research}, 58:797--827, 2017.
+
+\bibitem{anshelevich2018ordinal}
+Elliot Anshelevich and Wennan Zhu.
+\newblock Ordinal approximation for social choice, matching, and facility
+  location problems given candidate positions.
+\newblock In {\em International Conference on Web and Internet Economics},
+  pages 3--20. Springer, 2018.
+
+\bibitem{anshelevich2019tradeoffs}
+Elliot Anshelevich and Wennan Zhu.
+\newblock Tradeoffs between information and ordinal approximation for bipartite
+  matching.
+\newblock {\em Theory of Computing Systems}, 63(7):1499--1530, 2019.
+
+\bibitem{bhaskar}
+Umang Bhaskar and Abheek Ghosh.
+\newblock On the welfare of cardinal voting mechanisms.
+\newblock In {\em 38th IARCS Annual Conference on Foundations of Software
+  Technology and Theoretical Computer Science (FSTTCS 2018)}, volume 122 of
+  {\em Leibniz International Proceedings in Informatics (LIPIcs)}, pages
+  27:1--27:22, 2018.
+
+\bibitem{boutilier2015optimal}
+Craig Boutilier, Ioannis Caragiannis, Simi Haber, Tyler Lu, Ariel~D Procaccia,
+  and Or~Sheffet.
+\newblock Optimal social choice functions: A utilitarian view.
+\newblock {\em Artificial Intelligence}, 227:190--213, 2015.
+
+\bibitem{caragiannis2011voting}
+Ioannis Caragiannis and Ariel~D Procaccia.
+\newblock Voting almost maximizes social welfare despite limited communication.
+\newblock {\em Artificial Intelligence}, 175(9-10):1655--1671, 2011.
+
+\bibitem{cheng2017people}
+Yu~Cheng, Shaddin Dughmi, and David Kempe.
+\newblock Of the people: voting is more effective with representative
+  candidates.
+\newblock In {\em Proceedings of the 2017 ACM Conference on Economics and
+  Computation}, pages 305--322. ACM, 2017.
+
+\bibitem{cheng2018distortion}
+Yu~Cheng, Shaddin Dughmi, and David Kempe.
+\newblock On the distortion of voting with multiple representative candidates.
+\newblock In {\em Thirty-Second AAAI Conference on Artificial Intelligence},
+  2018.
+
+\bibitem{elkind2017multiwinner}
+Edith Elkind, Piotr Faliszewski, Jean-Fran{\c{c}}ois Laslier, Piotr Skowron,
+  Arkadii Slinko, and Nimrod Talmon.
+\newblock What do multiwinner voting rules do? an experiment over the
+  two-dimensional euclidean domain.
+\newblock In {\em Thirty-First AAAI Conference on Artificial Intelligence},
+  pages 494--501, 2017.
+
+\bibitem{feldman2016voting}
+Michal Feldman, Amos Fiat, and Iddan Golomb.
+\newblock On voting and facility location.
+\newblock In {\em Proceedings of the 2016 ACM Conference on Economics and
+  Computation}, pages 269--286. ACM, 2016.
+
+\bibitem{goel2018relating}
+Ashish Goel, Reyna Hulett, and Anilesh~K Krishnaswamy.
+\newblock Relating metric distortion and fairness of social choice rules.
+\newblock In {\em Proceedings of the 13th Workshop on Economics of Networks,
+  Systems and Computation}, page~4. ACM, 2018.
+
+\bibitem{goel2017metric}
+Ashish Goel, Anilesh~K Krishnaswamy, and Kamesh Munagala.
+\newblock Metric distortion of social choice rules: Lower bounds and fairness
+  properties.
+\newblock In {\em Proceedings of the 2017 ACM Conference on Economics and
+  Computation}, pages 287--304. ACM, 2017.
+
+\bibitem{gross2017vote}
+Stephen Gross, Elliot Anshelevich, and Lirong Xia.
+\newblock Vote until two of you agree: Mechanisms with small distortion and
+  sample complexity.
+\newblock In {\em Thirty-First AAAI Conference on Artificial Intelligence},
+  2017.
+
+\bibitem{moulin1986choosing}
+Herv{\'e} Moulin.
+\newblock Choosing from a tournament.
+\newblock {\em Social Choice and Welfare}, 3(4):271--291, 1986.
+
+\bibitem{munagala2019improved}
+Kamesh Munagala and Kangning Wang.
+\newblock Improved metric distortion for deterministic social choice rules.
+\newblock In {\em Proceedings of the 2019 ACM Conference on Economics and
+  Computation}, EC '19, pages 245--262. ACM, 2019.
+
+\bibitem{oren2014online}
+Joel Oren and Brendan Lucier.
+\newblock Online (budgeted) social choice.
+\newblock In {\em Twenty-Eighth AAAI Conference on Artificial Intelligence},
+  pages 1456--1462, 2014.
+
+\bibitem{procaccia2006distortion}
+Ariel~D Procaccia and Jeffrey~S Rosenschein.
+\newblock The distortion of cardinal preferences in voting.
+\newblock In {\em International Workshop on Cooperative Information Agents},
+  pages 317--331. Springer, 2006.
+
+\bibitem{schulze2011new}
+Markus Schulze.
+\newblock A new monotonic, clone-independent, reversal symmetric, and
+  condorcet-consistent single-winner election method.
+\newblock {\em Social Choice and Welfare}, 36(2):267--303, 2011.
+
+\bibitem{skowron2017social}
+Piotr~Krzysztof Skowron and Edith Elkind.
+\newblock Social choice under metric preferences: scoring rules and stv.
+\newblock In {\em Thirty-First AAAI Conference on Artificial Intelligence},
+  2017.
+
+\bibitem{tideman1987independence}
+T~Nicolaus Tideman.
+\newblock Independence of clones as a criterion for voting rules.
+\newblock {\em Social Choice and Welfare}, 4(3):185--206, 1987.
+
+\end{thebibliography}

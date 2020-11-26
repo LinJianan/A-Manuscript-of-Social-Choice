@@ -1,0 +1,540 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.5)  26 NOV 2020 13:17
+entering extended mode
+**E:/Latex/CTEX/Articles/单栏/online_9_10.tex
+(E:/Latex/CTEX/Articles/单栏/online_9_10.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\Latex\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(E:\Latex\CTEX\MiKTeX\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\c@ALC@unique=\count87
+\c@ALC@line=\count88
+\c@ALC@rem=\count89
+\c@ALC@depth=\count90
+\ALC@tlm=\skip44
+\algorithmicindent=\skip45
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+\@float@every@algorithm=\toks17
+\c@algorithm=\count92
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(E:\Latex\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(E:\Latex\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(E:\Latex\CTEX\MiKTeX\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(E:\Latex\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen107
+))
+(E:\Latex\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks19
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks20
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks21
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen116
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(E:\Latex\CTEX\MiKTeX\tex\latex\yhmath\yhmath.sty
+Package: yhmath 
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 12.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/yhex/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/yhex/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 13.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 14.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\undertilde\undertilde.sty
+Package: undertilde 2000/08/08 v1.0 Tilde under a math object
+\knuthian@fdfive=\skip49
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\bbm\bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup8
+\symboldletters=\mathgroup9
+\symboldsymbols=\mathgroup10
+\symboldlasy=\mathgroup11
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\amsfonts\eufrak.sty
+
+Package eufrak Warning: The eufrak package is redundant if the amsfonts package
+ is used on input line 36.
+
+) (E:\Latex\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks28
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen117
+\lightrulewidth=\dimen118
+\cmidrulewidth=\dimen119
+\belowrulesep=\dimen120
+\belowbottomsep=\dimen121
+\aboverulesep=\dimen122
+\abovetopsep=\dimen123
+\cmidrulesep=\dimen124
+\cmidrulekern=\dimen125
+\defaultaddspace=\dimen126
+\@cmidla=\count106
+\@cmidlb=\count107
+\@aboverulesep=\dimen127
+\@belowrulesep=\dimen128
+\@thisruleclass=\count108
+\@lastruleclass=\count109
+\@thisrulewidth=\dimen129
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\graphics\dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(E:\Latex\CTEX\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup13
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 240.
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen130
+\extrarowheight=\dimen131
+\NC@list=\toks29
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+(E:\Latex\CTEX\MiKTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+\c@mechanism=\count110
+\c@theorem=\count111
+\c@assumption=\count112
+
+(E:\Latex\CTEX\Articles\单栏\online_9_10.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+
+(E:\Latex\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen132
+\scratchbox=\box30
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen133
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks32
+)
+\c@my=\count119
+\c@my2=\count120
+\c@my3=\count121
+LaTeX Font Info:    Try loading font information for OMX+yhex on input line 115
+.
+ (E:\Latex\CTEX\MiKTeX\tex\latex\yhmath\omxyhex.fd
+File: OMXyhex.fd 
+File: OMXyhex.fd 1996/01/04 v1.0 YH's humble contribution to TeX maths
+)
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <12> on input line 115.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <8> on input line 115.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <6> on input line 115.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 115.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 115.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 115.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 115.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 115.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 115.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 115.
+
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\stmaryrd\ustmry.fd)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 115.
+
+(E:\Latex\CTEX\MiKTeX\tex\latex\wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+{E:/Latex/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <10.95> on input line 165.
+
+[2] [3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 324--327
+
+ []
+
+
+Overfull \hbox (60.27408pt too wide) in paragraph at lines 349--349
+[] 
+ []
+
+[7]
+Overfull \hbox (60.27408pt too wide) in paragraph at lines 371--371
+[] 
+ []
+
+[8] [9] [10] [11]
+Package epstopdf Info: Source file: <awn.eps>
+(epstopdf)                    date: 2019-11-16 03:07:10
+(epstopdf)                    size: 140789 bytes
+(epstopdf)             Output file: <awn-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-16 03:07:24
+(epstopdf)                    size: 6916 bytes
+(epstopdf)             Command: <epstopdf --outfile=awn-eps-converted-to.pdf aw
+n.eps>
+(epstopdf)             \includegraphics on input line 484.
+Package epstopdf Info: Output file is already uptodate.
+ <awn-eps-converted-to.pdf, id=53, 449.68pt x 101.37875pt>
+File: awn-eps-converted-to.pdf Graphic file (type pdf)
+
+<use awn-eps-converted-to.pdf>
+Package pdftex.def Info: awn-eps-converted-to.pdf used on input line 484.
+(pdftex.def)             Requested size: 134.90503pt x 30.41385pt.
+ [12 <E:/Latex/CTEX/Articles/单栏/awn-eps-converted-to.pdf>]
+Overfull \hbox (9.41795pt too wide) in paragraph at lines 521--522
+[]\OT1/cmr/m/it/10.95 A $\OML/cmm/m/it/10.95 y$\OT1/cmr/m/n/10.95 -covered-cycl
+e \OT1/cmr/m/it/10.95 in the weight-ed tour-na-men-t graph is a ver-tex se-quen
+ce $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 A[]; A[]; [] ; A[]; A[] \OT1/cmr/m/
+n/10.95 =$
+ []
+
+[13]
+Overfull \hbox (1.21307pt too wide) in paragraph at lines 567--568
+[]\OT1/cmr/bx/n/10.95 Lemma 4.5. []\OT1/cmr/m/it/10.95 There is no $\OML/cmm/m/
+it/10.95 y$\OT1/cmr/m/it/10.95 -covered-cycle of length 3 or 4. In ad-di-tion, 
+when $\OML/cmm/m/it/10.95 n \OT1/cmr/m/n/10.95 = 4$\OT1/cmr/m/it/10.95 , the $\
+OML/cmm/m/it/10.95 Cov[]\OT1/cmr/m/n/10.95 (2[] +$
+ []
+
+[14]
+Package epstopdf Info: Source file: <n5.eps>
+(epstopdf)                    date: 2019-11-16 03:00:44
+(epstopdf)                    size: 719609 bytes
+(epstopdf)             Output file: <n5-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-16 03:02:27
+(epstopdf)                    size: 5283 bytes
+(epstopdf)             Command: <epstopdf --outfile=n5-eps-converted-to.pdf n5.
+eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+ <n5-eps-converted-to.pdf, id=66, 648.4225pt x 579.16376pt>
+File: n5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use n5-eps-converted-to.pdf>
+Package pdftex.def Info: n5-eps-converted-to.pdf used on input line 622.
+(pdftex.def)             Requested size: 116.71101pt x 104.24496pt.
+ [15 <E:/Latex/CTEX/Articles/单栏/n5-eps-converted-to.pdf>] [16]
+Package epstopdf Info: Source file: <a5.eps>
+(epstopdf)                    date: 2019-11-16 03:19:59
+(epstopdf)                    size: 391883 bytes
+(epstopdf)             Output file: <a5-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-16 03:20:13
+(epstopdf)                    size: 9598 bytes
+(epstopdf)             Command: <epstopdf --outfile=a5-eps-converted-to.pdf a5.
+eps>
+(epstopdf)             \includegraphics on input line 755.
+Package epstopdf Info: Output file is already uptodate.
+ <a5-eps-converted-to.pdf, id=75, 500.87125pt x 359.3425pt>
+File: a5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a5-eps-converted-to.pdf>
+Package pdftex.def Info: a5-eps-converted-to.pdf used on input line 755.
+(pdftex.def)             Requested size: 150.26253pt x 107.80357pt.
+ [17 <E:/Latex/CTEX/Articles/单栏/a5-eps-converted-to.pdf>] [18] [19] [20] [2
+1] [22] [23]
+(E:\Latex\CTEX\Articles\单栏\online_9_10.bbl [24]) [25]
+(E:\Latex\CTEX\Articles\单栏\online_9_10.aux) ) 
+Here is how much of TeX's memory you used:
+ 3814 strings out of 495354
+ 49728 string characters out of 3183524
+ 118432 words of memory out of 3000000
+ 6823 multiletter control sequences out of 15000+200000
+ 18536 words of font info for 73 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,9n,23p,1377b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <E:\Latex\CTEX\UserData\fonts
+\pk\ljfour\public\yhmath\dpi600\yhcmex10.pk><E:/Latex/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+<E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Latex/CTEX/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Latex/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmib10.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cmextra/cmmib8.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Late
+x/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Latex/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y8.pfb><E:/Latex/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><E:/Late
+x/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><E:/Latex/CTEX/MiK
+TeX/fonts/type1/public/wasy/wasy10.pfb>
+Output written on online_9_10.pdf (25 pages, 326511 bytes).
+PDF statistics:
+ 162 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
